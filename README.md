@@ -57,10 +57,10 @@ _Real wood-fire. Real taste. Real pizza._
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pizza-menu.git
+git clone https://github.com/Rishan-Koiry/Pizza-website.git
 
 # Navigate to the project
-cd pizza-menu
+cd Pizza-website
 
 # Install dependencies
 npm install
